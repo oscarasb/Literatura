@@ -12,7 +12,15 @@
 
 * IntelliJ IDEA
 
-* JAVA
+* JAVA 24
+
+* Spring Boot 3
+  
+* JPA & Hibernate
+  
+* PostgreSQL
+   
+* Maven
 
 ## Realizado por:
 
